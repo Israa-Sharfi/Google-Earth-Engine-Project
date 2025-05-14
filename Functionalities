@@ -1,0 +1,11 @@
+preprocessing.js: Loads and preprocesses Sentinel-1 imagery, applies speckle filtering, and prepares time-series data.
+
+flood_detection.js: Detects flooded areas using difference images, thresholding, and water masking.
+
+population_analysis.js: Computes the exposed population by overlaying flood maps with population density data.
+
+crop_analysis.js: Assesses the impact of floods on agricultural land and estimates potential crop yield losses.
+
+urban_analysis.js: Evaluates the impact of floods on urban areas and critical infrastructure.
+
+export_utils.js: Handles the export of processed imagery and vector data for visualization and further analysis.
