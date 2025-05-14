@@ -1,5 +1,5 @@
 # Google-Earth-Engine-Project
-# Earth-Observation-Project  
+ 
 ## Flood Mapping & Impact Assessment (GEE)  
 
 This project uses Sentinel-1 SAR data to detect floods and assess their impact on people, agriculture, and urban areas within a specific region in WadMadani,Sudan. It incorporates historical rainfall trends, population density, and land use data to analyze flood consequences.
